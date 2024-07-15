@@ -1,4 +1,4 @@
-# Heart-failure
+# Stroke classification
 This project focuses on stroke classification using Python, machine learning, neural networks, and AI techniques. Leveraging a dataset sourced from Kaggle, we aim to develop an accurate and efficient system for predicting and classifying strokes.
 By applying advanced machine learning algorithms and neural network architectures, our project aims to analyze and extract valuable insights from the dataset. The goal is to train the model to accurately identify different types of strokes based on various input features, such as age, gender, hypertension, and other relevant medical parameters.
 
